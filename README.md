@@ -2,5 +2,5 @@
 
 An example python package. 
 ```
-conda pip install ...
+pip install pip install git+https://github.com/PTW-Freiburg/PythonExamplePackage.git
 ```
